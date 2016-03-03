@@ -1,0 +1,17 @@
+{
+    "name": "1_Testing",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Tobias Jacobsen",
+    "contributors": [],
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^3.5.0"
+    }
+}
